@@ -1,7 +1,7 @@
 MAIOR_IDADE = 18
-IDADE_ESPECIAL = 17 #Informe a idade
+IDADE_ESPECIAL = 17 
 
-idade = int(input("Informe sua idade: "))
+idade = int(input("Informe sua idade: ")) #Informe a idade: 17
 
 if idade >= MAIOR_IDADE:
     print("Maior de idade, pode tirar CNH.")
