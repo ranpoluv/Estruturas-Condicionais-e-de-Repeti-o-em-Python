@@ -1,5 +1,5 @@
 MAIOR_IDADE = 18
-IDADE_ESPECIAL = 17
+IDADE_ESPECIAL = 17 #Informe a idade
 
 idade = int(input("Informe sua idade: "))
 
